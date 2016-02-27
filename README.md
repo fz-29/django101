@@ -1,0 +1,1 @@
+This repo contains code used to teach in Django 101 at DTU.
